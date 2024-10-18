@@ -22,9 +22,9 @@ permalink: /
   {% endfor %}
 </ul>
 
-###### credits
+##### credits
 
-<p style="font-size:50%;">This site was made from accumulated years of encouragement from my brothers and friends; the template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).</p>
+<p style="font-size:75%;">This site was made from accumulated years of encouragement from my brothers and friends; the template is free, open-source, and [[available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template)].</p>
 
 <style>
   .wrapper {
