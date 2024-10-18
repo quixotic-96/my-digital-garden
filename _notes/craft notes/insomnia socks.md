@@ -25,8 +25,12 @@ I haven't touched knitting in months and one sleepless night I decided to start 
 ### pictures:
 
 <img src="{{ site.baseurl }}/assets/insomnia socks/is progress 1.png"/>
+
 <img src="{{ site.baseurl }}/assets/insomnia socks/is progress 2.png"/>
+
 <img src="{{ site.baseurl }}/assets/insomnia socks/is progress 3.png"/>
+
 <img src="{{ site.baseurl }}/assets/insomnia socks/is progress 4.png"/>
 Fleegal heel
+
 <img src="{{ site.baseurl }}/assets/insomnia socks/is progress 5.png"/>
