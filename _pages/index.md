@@ -11,7 +11,7 @@ permalink: /
   This is my hypertext commonplace. [[Choose your own adventure]] as you read through my notes on making and mending and watching things grow.
 </p>
 
-This site is where I think out loud, inspired by my years of keeping physical commonplace books and by others making <a href="https://maggieappleton.com/garden-history">digital garden websites</a>. Entries here will more often than not be rough, short thoughts that link up with other little ideas, or quotes from what I'm reading, or notes on what I'm making.   
+This site is where I think out loud, inspired by my years of keeping physical commonplace books and by others making <a href="https://maggieappleton.com/garden-history">digital gardens.</a> Entries here will more often than not be rough, short thoughts that link up with other little ideas, or quotes from what I'm reading, or notes on what I'm making.
 
 <strong>Recently updated notes</strong>
 

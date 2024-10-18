@@ -1,7 +1,7 @@
 ---
 title: Choose your own adventure
-layout: default
+layout: note
 ---
 
-# Choose your own adventure
+# Topics
 

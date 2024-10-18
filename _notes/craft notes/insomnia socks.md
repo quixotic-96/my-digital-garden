@@ -1,7 +1,9 @@
 ---
 title: insomnia socks
-layout: default
+layout: note
 ---
+
+[[making]]
 
 # insomnia socks
 
@@ -17,9 +19,11 @@ layout: default
 |finished...| 
 
 ### notes:
+
 I haven't touched knitting in months and one sleepless night I decided to start knitting some simple toe up socks to mark the time... that's about it. Toe up sock cast-ons are some kind of subtle wild magic, though. I dunno why they work, they just do. 
 
 ### in summary:
+
 * yay socks!
 
 ### pictures:
@@ -37,3 +41,5 @@ I haven't touched knitting in months and one sleepless night I decided to start 
 		<td><img src="{{ site.baseurl }}/assets/insomnia socks/is progress 5.png"/></td>
 	</tr>
 </table>
+
+[[making]]
