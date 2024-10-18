@@ -5,15 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome!
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+<p style="padding: 3em 1em; background: #ddccff; border-radius: 4px;">
+  This is my hypertext commonplace. [[Choose your own adventure]] as you read through my notes on making and mending and watching things grow.
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
@@ -25,6 +21,10 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     </li>
   {% endfor %}
 </ul>
+
+###### credits
+
+<p style="font-size:50%;">This site was made from accumulated years of encouragement from my brothers and friends; the template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).</p>
 
 <style>
   .wrapper {
