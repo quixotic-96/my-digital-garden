@@ -9,12 +9,12 @@ layout: default
 
 |||
 |-|-| 
-|craft| knitting
-|materials| knit picks "stroll" sock yarn
-|tools| US 1 dpns
-|pattern| drk everyday socks
-|started| Monday, September 23rd, 2024 (at like 2am lol)
-|finished| 
+|craft	| knitting
+|materials	| knit picks "stroll" sock yarn
+|tools	| US 1 dpns
+|pattern	| drk everyday socks
+|started	| Monday, September 23rd, 2024 (at like 2am lol)
+|finished	| 
 
 ### notes:
 I haven't touched knitting in months and one sleepless night I decided to start knitting some simple toe up socks to mark the time... that's about it. Toe up sock cast-ons are some kind of subtle wild magic, though. I dunno why they work, they just do. 
