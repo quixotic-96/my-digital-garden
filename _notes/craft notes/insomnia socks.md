@@ -3,15 +3,11 @@ title: insomnia socks
 layout: note
 ---
 
-[[making]]
-
-# insomnia socks
-
 (add one more pic of pair of socks when finished)
 
 |||
 |-|-| 
-|craft...| knitting
+|[[craft]]...| knitting
 |materials...| knit picks "stroll" sock yarn
 |tools...| US 1 dpns
 |pattern...| drk everyday socks

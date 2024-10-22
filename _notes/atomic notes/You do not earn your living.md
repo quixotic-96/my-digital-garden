@@ -4,7 +4,7 @@ layout: note
 ---
 
 Monday, October 14th, 2024 10:47 am
-topic(s): [[providence]]
+topic(s): [[Theology]]
 
 # you do not earn your living
 

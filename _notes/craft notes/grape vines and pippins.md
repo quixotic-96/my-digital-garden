@@ -3,13 +3,9 @@ title: grape vines and pippins
 layout: note
 ---
 
-[[making]]
-
-# Grape Vines and Pippins
-
 |||
 |-|-| 
-|craft...| crewel wool embroidery
+|[[craft]]...| crewel wool embroidery
 |materials...| Melbury Hill embroidery kit "Grape Vines and Pippins"; linen twill of a lighter color than the pre-printed linen that came with the kit; Appleton crewel wool; mounted on/around foam board with foam board spacers to friction-fit into the frame
 |tools...| Kit; slate frame
 |pattern...| "Grape Vines and Pippins"

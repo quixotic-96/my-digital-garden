@@ -4,7 +4,7 @@ layout: note
 ---
 
 Wednesday, October 9th, 2024 11:27 am
-topic(s): [[psychomachy and asceticism]]
+topic(s): [[Theology]]
 
 # What is temptation
 

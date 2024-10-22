@@ -4,7 +4,7 @@ layout: default
 ---
 
 Wednesday, October 9th, 2024 10:25 am
-topic(s): [[psychomachy and asceticism]]
+topic(s): [[Theology]]
 
 # Psychomachy is the place of God's healing
 

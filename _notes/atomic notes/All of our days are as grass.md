@@ -4,7 +4,7 @@ layout: note
 ---
 
 Wednesday, October 16th, 2024 6:38 pm
-topic(s): [[providence]], [[psychomachy and asceticism]], [[work]]
+topic(s): [[providence]], [[Theology]], [[work]]
 # All of our days are as grass
 All of our lives are as grass; you cannot go and get grass that burns up better. It withers and burns up all the same. Getting different accomplishments, doing good work for the sake of being justified by it (being made "good enough" or somehow "acceptable")-- it is all straw. The king's days, the peasant's days, the sinner's days, the most holiest living saint's days... they are all grass that burns up just the same. Doing good work in our days and applying our hearts to wisdom is for storing up treasure in heaven, for repentance, for the cooperation with God that transfigures us to be more like Him...
 

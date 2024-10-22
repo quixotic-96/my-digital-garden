@@ -3,13 +3,9 @@ title: dogwood blanket
 layout: note
 ---
 
-[[making]]
-
-# Dogwood baby blanket
-
 |||
 |-|-| 
-|craft...| knitting 
+|[[craft]]...| knitting 
 |materials...| Cascade Yarns 220 Superwash Merino; Aran weight; color: Orchid Haze (329); ~750 yrds|
 |tools...| US 8 long (32"? I think?) circular needle; Lykke interchangeable set
 |pattern...| Dogwood by tincanknits
