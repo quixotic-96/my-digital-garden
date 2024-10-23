@@ -3,6 +3,7 @@ title: contact
 layout: page
 ---
 
-## shoot me <a href="mailto:sgstorey96@gmail.com">(an email)</a> 
+## shoot me (an email) 
 
-be nice about it
+be nice about it: sarahgene@duck.com
+
