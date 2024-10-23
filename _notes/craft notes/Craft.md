@@ -7,3 +7,7 @@ I have been knitting since I was about seven or eight years old. [[My mom]] croc
 
 I don't feel like a real artist; I've always felt I needed to be able to draw or play music to call myself such. I have some ideas about the separation of craft and art, which more or less amount to the dichotomy being artificial, among other thoughts. And yet I'm not sure if I'm making art. Is there art in knitting socks from a pattern? [[contact|Let me know]] if you have an answer to that.
 
+
+
+[[portfolio]]
+
