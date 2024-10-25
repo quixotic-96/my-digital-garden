@@ -34,7 +34,7 @@ layout: note
 	<div class="grid-item">
 		<h4>Reading</h4>
 		<li>[[Leisure The Basis of Culture]]
-		<li></li>
+		<li>[[I'm not here to write spark notes]]</li>
 	
 
 

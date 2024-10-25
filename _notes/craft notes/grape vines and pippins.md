@@ -5,7 +5,7 @@ layout: note
 
 |||
 |-|-| 
-|[[craft]]...| crewel wool embroidery
+|craft...| crewel wool embroidery
 |materials...| Melbury Hill embroidery kit "Grape Vines and Pippins"; linen twill of a lighter color than the pre-printed linen that came with the kit; Appleton crewel wool; mounted on/around foam board with foam board spacers to friction-fit into the frame
 |tools...| Kit; slate frame
 |pattern...| "Grape Vines and Pippins"
@@ -15,20 +15,35 @@ layout: note
 ### notes:
 
 > Bless them, O Lord our God, as Thou didst bless Abraham and Sarah. 
+>
 > Bless them, O Lord our God, as Thou didst bless Isaac and Rebecca. 
-> Bless them, O Lord our God, as Thou didst bless Jacob and all the patriarchs. 
+>
+> Bless them, O Lord our God, as Thou didst bless Jacob and all the patriarchs.
+> 
 > Bless them, O Lord our God, as Thou didst bless Joseph and Aseneth. 
+>
 > Bless them, O Lord our God, as Thou didst bless Moses and Zipporah. 
-> Bless them, O Lord our God, as Thou didst bless Joachim and Anna. 
-> Bless them, O Lord our God, as Thou didst bless Zachariah and Elizabeth. 
+>
+> Bless them, O Lord our God, as Thou didst bless Joachim and Anna.
+> 
+> Bless them, O Lord our God, as Thou didst bless Zachariah and Elizabeth.
+> 
 > Preserve them, O Lord our God, as Thou didst preserve Noah in the ark. 
-> Preserve them, O Lord our God, as Thou didst preserve Jonah in the belly of the whale. 
+>
+> Preserve them, O Lord our God, as Thou didst preserve Jonah in the belly of the whale.
+> 
 > Preserve them, O Lord our God, as Thou didst preserve the three holy children from the fire, sending down upon them dew from heaven; and let that gladness come upon them which the blessed Helen had when she found the precious Cross. 
-> Remember them, O Lord our God, as Thou didst remember Enoch, Shem, and Elijah. 
+>
+> Remember them, O Lord our God, as Thou didst remember Enoch, Shem, and Elijah.
+> 
 > Remember them, O Lord our God, as Thou didst remember Thy forty holy martyrs, sending down upon them crowns from heaven. 
-> Remember them, O Lord our God, and the parents who have nurtured them, for the prayers of parents make firm the foundations of houses. 
+>
+> Remember them, O Lord our God, and the parents who have nurtured them, for the prayers of parents make firm the foundations of houses.
+> 
 > Remember, O Lord our God, Thy servants, the groomsman and the bridesmaid of the bridal pair, who have come together in this joy. 
-> Remember, O Lord our God, Thy servant Jonathan, and Thy handmaid Hannah, and bless them. Grant them of the fruit of their bodies, fair children, concord of soul and body. 
+>
+> Remember, O Lord our God, Thy servant Jonathan, and Thy handmaid Hannah, and bless them. Grant them of the fruit of their bodies, fair children, concord of soul and body.
+> 
 > Exalt them like the cedars of Lebanon, like a luxuriant vine. Give them offspring in number like unto full ears of grain; so that, having enough of all things, they may abound in every work that is good and acceptable unto Thee. Let them see their children’s children, like olive shoots around their table; so that, finding favor in Thy sight, they may shine like the stars of heaven, in Thee, our God.
 
 This is a wedding gift for dear friends who married in June; I enjoyed working on it and I think it turned out well. After finishing stitching it took me an additional month and a half to muster up the wherewithal mentally and physically to frame the thing, but I got there eventually. And in all the months I've been working on this, I've only bled over it twice and got blood onto it only once! (thankfully the blood stain is on the back hidden in the fold of the lacing lol)
@@ -45,28 +60,33 @@ God grant you many many years!!
 * yay <3
 ### pictures:
 
-![[GV&P progress 1.png]] 
-transferring the pattern
-![[GV&P progress 2.png]]
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 1.png"/> transferring the pattern</td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 2.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 4.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 5.png"/>the original design called for brown to be used at the middle vein of the grape leaves; I didn't like how this looked and opted for a light green which is closer to how grape leaf veins look in real life</td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 6.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 7.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 8.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 9.png"/>first blood!</td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 10.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 11.png"/>aaannnnd second blood (y'all will have a part of me with you forever? sorry 'bout it lol)</td>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 12.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/grape vines and pippins/GV&P progress 13.png"/></td>
+	</tr>
+</table>
 
-![[GV&P progress 3.png]]
-
-![[GV&P progress 4.png]]
-
-![[GV&P progress 5.png]]
-the original design called for brown to be used at the middle vein of the grape leaves; I didn't like how this looked and opted for a light green which is closer to how grape leaf veins look in real life
-![[GV&P progress 6.png]]
-
-![[GV&P progress 7.png]]
-
-![[GV&P progress 8.png]]
-
-![[GV&P progress 9.png]]
-first blood, oops
-![[GV&P progress 10.png]]
-
-![[GV&P progress 12.png]]
-
-![[GV&P progress 11.png]]
-aaannnnd second blood (y'all will have a part of me with you forever? sorry 'bout it lol)
-![[GV&P progress 13.png]]

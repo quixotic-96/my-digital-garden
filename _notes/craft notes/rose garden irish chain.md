@@ -5,7 +5,7 @@ layout: note
 
 |||
 |-|-| 
-|[[craft]]...| sewing; quilting 
+|craft...| sewing; quilting 
 |materials...| Cotton quilting fabric from JoAnn's (white, pink, light green); 100% cotton batting; DMC perle cotton #5|
 |tools...| Sewing machine; the usual fabric things; big honkin' embroidery needle for big stitch hand quilting
 |pattern...| A hodgepodge of tutorials online, but primarily from the blog "Joz Makes Quilts" 

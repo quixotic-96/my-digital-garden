@@ -5,7 +5,7 @@ layout: note
 
 |||
 |-|-| 
-|[[craft]]...| sewing
+|craft...| sewing
 |materials...| black linen given me from my mother's fabric stash, and an old pillowcase for the bodice lining; 100% cotton seersucker off mood fabric 
 |tools...|  sewing machine, monotropic tunnel-focus
 |pattern...| Tie Dress by Sara SJ Kim

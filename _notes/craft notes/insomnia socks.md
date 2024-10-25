@@ -7,7 +7,7 @@ layout: note
 
 |||
 |-|-| 
-|[[craft]]...| knitting
+|craft...| knitting
 |materials...| knit picks "stroll" sock yarn
 |tools...| US 1 dpns
 |pattern...| drk everyday socks
@@ -37,5 +37,3 @@ I haven't touched knitting in months and one sleepless night I decided to start 
 		<td><img src="{{ site.baseurl }}/assets/insomnia socks/is progress 5.png"/></td>
 	</tr>
 </table>
-
-[[making]]

@@ -1,0 +1,13 @@
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//.png"/></td>
+	</tr>
+</table>

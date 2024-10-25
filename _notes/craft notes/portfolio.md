@@ -1,6 +1,6 @@
 ---
 title: portfolio
-layout: page
+layout: note
 ---
 
 <head>
@@ -26,7 +26,6 @@ layout: page
     </style>
 </head>
 <body>
-    <h1>Portfolio</h1>
     <div class="grid-container">
         <div class="grid-item">
             <h2>Knitting</h2>
