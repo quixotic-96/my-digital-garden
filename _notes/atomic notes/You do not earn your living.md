@@ -10,3 +10,4 @@ You do not earn your living; the hardest working person you know, highest earnin
 ## references
 
 [[Leisure The Basis of Culture]]
+[[All our days are as grass]]
