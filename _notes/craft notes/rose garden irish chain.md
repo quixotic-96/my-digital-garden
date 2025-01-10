@@ -53,6 +53,6 @@ I really like my wonky big meandering stitches for the hand quilting and my litt
 	<tr>
 		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 7.png"/></td>
 		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 8.png"/></td>
-	</td>
+	</tr>
 </table>
 
