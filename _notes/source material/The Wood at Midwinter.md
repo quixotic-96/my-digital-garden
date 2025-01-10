@@ -1,5 +1,5 @@
 ---
-title: Leisure The Basis of Culture 
+title: The Wood at Midwinter 
 layout: note 
 ---
 
