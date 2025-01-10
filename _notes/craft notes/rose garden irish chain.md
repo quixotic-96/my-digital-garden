@@ -36,10 +36,23 @@ I really like my wonky big meandering stitches for the hand quilting and my litt
 * We're taking the time to acknowledge mistakes and investing time into fixing them even when it'd be easier and less-scary to be detached and all sour-grapes about it! 
 
 ### pictures:
-![[rgbq progress 1.png]]
-![[rgbq progress 2.png]]
-![[rgbq progress 3.png]]
-![[rgbq progress 4.png]]
-![[rgbq progress 5.png]]
-![[rgbq progress 6.png]]
-![[rgbq progress 8.png]]
+
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 1.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 2.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 4.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 6.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 7.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/rose garden baby quilt/rgbq progress 8.png"/></td>
+	</td>
+</table>
+

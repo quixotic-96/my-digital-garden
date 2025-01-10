@@ -28,10 +28,10 @@ A detail I enjoyed about my process of making these dresses is that I decided to
 <table>
 	<tr>
 		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 1.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 2.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 2.png"/>whip stitch finishing seam allowances</td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 3.png"/>herringbone stitch hem for the sleeves</td>
 		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 4.png"/></td>
 	</tr>
 	<tr>
