@@ -35,15 +35,15 @@ Lastly, some observations on the yarn. I really enjoyed working with it; it is e
 
 <table>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 1.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 2.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 1.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 2.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 3.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 4.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 4.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 5.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets//dbb progress 6.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/dogwood baby blanket/dbb progress 6.png"/></td>
 	</tr>
 </table>

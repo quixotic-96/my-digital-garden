@@ -27,26 +27,17 @@ A detail I enjoyed about my process of making these dresses is that I decided to
 
 <table>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//td progress 1.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets//td progress 2.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 1.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 2.png"/></td>
 		whip stitch finishing seam allowances
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//td dress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 3.png"/></td>
 		herringbone stitch hem for the sleeves
-		<td><img src="{{ site.baseurl }}/assets//td dress 4.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 4.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//td dress 5.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets//td dress 6.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 6.png"/></td>
 	</tr>
 </table>
-
-![[td progress 1.png]]
-![[td progress 2.png]]
-whip stitch finishing seam allowances
-![[td progress 3.png]]
-herringbone stitch hem for the sleeves
-![[td progress 4.png]]
-![[td progress 5.png]]
-![[td progress 6.png]]
