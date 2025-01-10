@@ -31,11 +31,11 @@ A detail I enjoyed about my process of making these dresses is that I decided to
 		<td><img src="{{ site.baseurl }}/assets/tie dresses/td progress 2.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 3.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 4.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress progress 4.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 5.png"/></td>
-		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress 6.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress progress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets/tie dresses/td dress progress 6.png"/></td>
 	</tr>
 </table>
