@@ -32,9 +32,18 @@ Lastly, some observations on the yarn. I really enjoyed working with it; it is e
 - would knit again! and might use stitch markers next time to separate pattern quadrants...
 
 ### pictures:
-![[dbb progress 1.png]]
-![[dbb progress 2.png]]
-![[dbb progress 3.png]]
-![[dbb progress 4.png]]
-![[dbb progress 5.png]]
-![[dbb progress 6.png]]
+
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 1.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 2.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 3.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 4.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//dbb progress 6.png"/></td>
+	</tr>
+</table>

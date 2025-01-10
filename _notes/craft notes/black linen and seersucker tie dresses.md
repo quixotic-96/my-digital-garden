@@ -25,6 +25,23 @@ A detail I enjoyed about my process of making these dresses is that I decided to
 
 ### pictures:
 
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//td progress 1.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//td progress 2.png"/></td>
+		whip stitch finishing seam allowances
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//td dress 3.png"/></td>
+		herringbone stitch hem for the sleeves
+		<td><img src="{{ site.baseurl }}/assets//td dress 4.png"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}/assets//td dress 5.png"/></td>
+		<td><img src="{{ site.baseurl }}/assets//td dress 6.png"/></td>
+	</tr>
+</table>
+
 ![[td progress 1.png]]
 ![[td progress 2.png]]
 whip stitch finishing seam allowances
