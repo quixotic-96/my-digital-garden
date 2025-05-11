@@ -5,7 +5,7 @@ permalink: /now
 ---
 
 Right now I am... 
+- moving house soon, UUHHHGGGG
 - reading what is handed to me
-- planning to start a collaborative crochet project with my mother
-- soon to go out gathering winter-sleeping vines for basketry 
-- tinkering with this website to get it [[just try to make it look natural!|looking how I would like]] and figuring out my workflow for updating it
+- establishing a running habit with some very encouraging sucess 
+- STILL tinkering with this website to get it [[just try to make it look natural!|looking how I would like]] and figuring out my workflow for updating it, but now with the problem of having left this site to sit over the winter 

@@ -35,6 +35,7 @@ layout: note
         </div>
         <div class="grid-item">
             <h2>Sewing</h2>
+			<li>[[summer pinwheels]]
             <li>[[black linen and seersucker tie dresses]]</li>
 			<li>[[rose garden irish chain]]</li>
         </div>
