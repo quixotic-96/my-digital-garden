@@ -5,7 +5,7 @@ layout: note
 
 |||
 |-|-| 
-|[[craft]]...| crewel wool embroidery
+|craft...| crewel wool embroidery
 |materials...| Melbury Hill pattern kit "Butterfly Harvest"
 |tools...| kit; plastic embroidery hoop
 |pattern...| "Butterfly Harvest"
