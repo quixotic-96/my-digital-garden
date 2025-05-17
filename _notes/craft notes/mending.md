@@ -11,10 +11,10 @@ When I am mending a friend's garment or other item, it is a work of [[prayer is 
 	</tr>
 	<tr>
 		<td><img src="{{ site.baseurl }}\assets\mending\m3.png"/></td>
-		<td><img src="{{ site.baseurl }}\assets\mending\m4.png"/>I've darned quite a few of them (this one right before his wedding, by looks of the planner page)</td>
+		<td><img src="{{ site.baseurl }}\assets\mending\m4.png"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}\assets\mending\m5.png"/></td>
+		<td><img src="{{ site.baseurl }}\assets\mending\m5.png"/>I've darned quite a few of Abba's socks (this one right before his wedding, by looks of the planner page)</td>
 		<td><img src="{{ site.baseurl }}\assets\mending\m6.png"/>Last one; really satisfying tabby weave</td>
 	</tr>
 	<tr>
