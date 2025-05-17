@@ -23,4 +23,16 @@ This was my first big embroidery project that I finished. I recall it was unfram
 
 ### pictures:
 
-coming soon
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}\assets\butterfly harvest\bh 1.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\butterfly harvest\bh 2.jpg"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}\assets\butterfly harvest\bh 3.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\butterfly harvest\bh 4.jpg"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}\assets\butterfly harvest\bh 5.jpg"/></td>
+	</tr>
+</table>
