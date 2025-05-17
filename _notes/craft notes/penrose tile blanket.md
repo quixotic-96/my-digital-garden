@@ -1,6 +1,6 @@
 |||
 |-|-| 
-|[[craft]]| #knitting
+|craft| knitting
 |materials| CotLin yarn
 |tools| the usual knitting things 
 |pattern| idk, search "Penrose" ravelry
