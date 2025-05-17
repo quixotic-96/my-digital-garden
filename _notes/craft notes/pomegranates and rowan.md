@@ -18,3 +18,17 @@ Gifted to my dear friend R. in California, who received a marriage proposal besi
 * Hooray! I did good :)
 
 ### pictures:
+
+<table>
+	<tr>
+		<td><img src="{{ site.baseurl }}\assets\pomegranates and rowan\pr 1.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\pomegranates and rowan\pr 2.jpg"/></td>
+	</tr>
+	<tr>
+		<td><img src="{{ site.baseurl }}\assets\pomegranates and rowan\pr 3.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\pomegranates and rowan\pr 4.jpg"/></td>
+	</tr>
+	<!-- <tr>
+		<td><img src="{{ site.baseurl }}\assets\pomegranates and rowan\pr 5.jpg"/></td>
+	</tr> -->
+</table>
