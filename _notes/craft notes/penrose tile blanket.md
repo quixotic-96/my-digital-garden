@@ -1,11 +1,11 @@
 |||
 |-|-| 
-|craft| knitting
-|materials| CotLin yarn
-|tools| the usual knitting things 
-|pattern| idk, search "Penrose" ravelry
-|started| April, 2020
-|finished| July, 2020
+|craft...| knitting
+|materials...| CotLin yarn
+|tools...| the usual knitting things 
+|pattern...| idk, search "Penrose" on ravelry
+|started...| April, 2020
+|finished...| July, 2020
 
 ### notes:
 
