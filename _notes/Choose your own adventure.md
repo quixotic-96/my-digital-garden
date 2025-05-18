@@ -23,21 +23,7 @@ layout: note
     </style>
 </head>
 
-### maybe start here, or anywhere in the graph below
-
-<div class="grid-container">
-	<div class="grid-item">
-		<h4>Making</h4>
-		<li>[[Craft]]</li>
-		<li>[[portfolio]]</li>
-	</div>
-	<div class="grid-item">
-		<h4>Reading</h4>
-		<li>[[Lord Peter Wimsey]]
-		<li>[[Metropolitan Kallistos]]
-		<li>[[The Wood at Midwinter]]
-		<li>[[Leisure The Basis of Culture]]
-		<li>[[I'm not here to write spark notes]]</li>
+### dive in using the graph below :)
 	
 
 
