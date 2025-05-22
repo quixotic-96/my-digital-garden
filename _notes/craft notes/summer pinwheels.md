@@ -41,10 +41,6 @@ This is the baby quilt for little Miss. K., who is due to arrive sometime early 
 		<td><img src="{{ site.baseurl }}\assets\summer pinwheels\sp progress 6.jpg"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}\assets\summer pinwheels\sp progress 5.jpg"/></td>
-		<td><img src="{{ site.baseurl }}\assets\summer pinwheels\sp progress 6.jpg"/></td>
-	</tr>
-	<tr>
 		<td><img src="{{ site.baseurl }}\assets\summer pinwheels\sp progress 7.jpg"/></td>
 		<td><img src="{{ site.baseurl }}\assets\summer pinwheels\sp progress 8.jpg"/></td>
 	</tr>
