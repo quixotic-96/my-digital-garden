@@ -20,6 +20,7 @@ This was my first big embroidery project that I finished. I recall it was unfram
 
 * the crewel wool kit pattern that started it all
 * "it all" being me really really loving how wool looks as embroidery
+* the next of this kind of project was [[pomegranates and rowan]]
 
 ### pictures:
 
