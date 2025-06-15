@@ -1,5 +1,5 @@
 ---
-title: JK birthday florals
+title: J.K. birthday florals
 layout: note
 ---
 
@@ -12,11 +12,11 @@ I've made birthday arrangements for this friend for a good few years now. I got 
 		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-22.jpg"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-23"/></td>
-		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-24"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-23.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-24.jpg"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-25"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-25.jpg"/></td>
 	</tr>
 </table>
 
