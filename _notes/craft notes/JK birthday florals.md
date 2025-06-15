@@ -9,7 +9,7 @@ I've made birthday arrangements for this friend for a good few years now. I got 
 <table>
 	<tr>
 		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-21.jpg"/></td>
-		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-22.jpg""/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-22.jpg"/></td>
 	</tr>
 	<tr>
 		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-23"/></td>

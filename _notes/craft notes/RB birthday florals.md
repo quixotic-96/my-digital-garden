@@ -1,5 +1,5 @@
 ---
-title: RB birthday florals
+title: R.B. birthday florals
 layout: note
 ---
 

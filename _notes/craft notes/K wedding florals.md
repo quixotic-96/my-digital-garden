@@ -4,7 +4,7 @@ layout: note
 ---
 
 
-oh hey I did some wedding [[K birthday florals|flowers]] for some [[grape vines and pippins|friends]]; that was fun! They still need to send me some of their official wedding photos feat. my floristry, though... ;P
+oh hey I did some wedding [[JK birthday florals|flowers]] for some [[grape vines and pippins|friends]]; that was fun! They still need to send me some of their official wedding photos feat. my floristry, though... ;P
 
 <table>
 	<tr>
