@@ -42,7 +42,7 @@ layout: note
 > 
 > Remember, O Lord our God, Thy servants, the groomsman and the bridesmaid of the bridal pair, who have come together in this joy. 
 >
-> Remember, O Lord our God, Thy servant Jonathan, and Thy handmaid Hannah, and bless them. Grant them of the fruit of their bodies, fair children, concord of soul and body.
+> Remember, O Lord our God, Thy servant Jonathan, and Thy handmaid Hannah, and bless them. Grant them of the [[summer pinwheels|fruit of their bodies]], fair children, concord of soul and body.
 > 
 > Exalt them like the cedars of Lebanon, like a luxuriant vine. Give them offspring in number like unto full ears of grain; so that, having enough of all things, they may abound in every work that is good and acceptable unto Thee. Let them see their children’s children, like olive shoots around their table; so that, finding favor in Thy sight, they may shine like the stars of heaven, in Thee, our God.
 
@@ -54,10 +54,11 @@ Friends, I prayed much for you while I stitched and I love you both dearly. Also
 
 God grant you many many years!!
 ### in summary:
-* the third kit-design I've done from Melbury hill, pretty straight forward process of stitching
+* the third kit-design I've done from Melbury hill, pretty straight forward process of stitching; the previous project was [[pomegranates and rowan]]
 * the linen twill that came with the kit was dark compared to the reference photos, so I traced the design onto lighter colored linen twill I had in my stash
 * framing is hard
 * yay <3
+
 ### pictures:
 
 <table>

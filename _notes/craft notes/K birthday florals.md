@@ -8,15 +8,15 @@ I've made birthday arrangements for this friend for a good few years now. I got 
 
 <table>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets/florals/abba-flowers-21.jpg"/></td>
-		<td><img src="{{ site.baseurl }}/assets//abba-flowers-22"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-21.jpg"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-22"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//abba-flowers-23"/></td>
-		<td><img src="{{ site.baseurl }}/assets//abba-flowers-24"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-23"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-24"/></td>
 	</tr>
 	<tr>
-		<td><img src="{{ site.baseurl }}/assets//abba-flowers-25"/></td>
+		<td><img src="{{ site.baseurl }}\assets\florals\abba-flowers-25"/></td>
 	</tr>
 </table>
 

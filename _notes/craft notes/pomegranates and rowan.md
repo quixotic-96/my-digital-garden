@@ -16,6 +16,7 @@ Gifted to my dear friend R. in California, who received a marriage proposal besi
 ### in summary:
 
 * Hooray! I did good :)
+* this project was preceded by [[butterfly harvest]] and followed by [[grapevines and pippins]]
 
 ### pictures:
 
