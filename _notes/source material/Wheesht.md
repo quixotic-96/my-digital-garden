@@ -5,8 +5,6 @@ layout: note
 
 Created: Tuesday, ‎May ‎13, ‎2025, ‏‎2:32 pm
 
-Wheesht: creative making in uncertain times 
-
 Author: Kate Davies
 
 >Wheesht int.v., n., adj., Scots and northern English dialects: to be quiet, to quieten, to hush, to remain silent. To haud or keep one’s wheesht: to be quiet, to hold one’s tongue. Also in diminutive forms (whish, whishie): the slightest sound. The least whisper. The faintest rumour or report.

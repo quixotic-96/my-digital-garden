@@ -3,16 +3,13 @@ title: Leisure The Basis of Culture
 layout: note 
 ---
 
-Friday, ‎October ‎4, ‎2024, ‏‎6:23 pm
-
-Leisure: The Basis of Culture
+Created: Friday, ‎October ‎4, ‎2024, ‏‎6:23 pm
 
 author: Josef Pieper
 
 publication date: 1948
 
-
-### reading notes
+### notes (2024)
 
 I.
  

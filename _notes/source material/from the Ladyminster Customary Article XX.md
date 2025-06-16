@@ -3,9 +3,7 @@ title: from the Ladyminster Customary Article XX
 layout: note
 ---
 
-Created Saturday, October 26th, 2024 2:51 pm
-
-Ladyminster Customary Article XX
+Created: Saturday, October 26th, 2024 2:51 pm
 
 author: Holy Monastery of Our Lady and Saint Laurence
 
